@@ -12,7 +12,7 @@ npm run serve
 
 **make sure you dir path and already installed npm** 
 
-# the website 
+## about the website path 
 
 the web 
 
