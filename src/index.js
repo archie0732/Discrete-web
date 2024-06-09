@@ -13,7 +13,7 @@ export function modInverse(a, m) {
   if (gcd !== 1) {
     return "模逆元素不存在";
   }
-  return ((x % m) + m) % m;
+  return ((x % m) + m) % m; 
 }
 
 export function slove(a, m) {

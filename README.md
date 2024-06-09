@@ -30,4 +30,6 @@ and script
 ```
 ./src/index.js
 ```
+### the web 
 
+![]('./src/assets/exa.png')
