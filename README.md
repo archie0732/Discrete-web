@@ -10,7 +10,7 @@ then,
 npm run serve
 ```
 
-**make sure you dir side and already installed npm** 
+**make sure you dir path and already installed npm** 
 
 
 the web 
