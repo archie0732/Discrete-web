@@ -33,3 +33,9 @@ and script
 ### the web 
 
 ![](https://github.com/archie0732/Discrete-web/blob/main/src/assets/exa.png)
+
+
+
+#### the end
+
+![](https://github.com/archie0732/Discrete-web/blob/main/src/assets/ayaka010.jpeg)
