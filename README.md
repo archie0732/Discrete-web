@@ -1,6 +1,6 @@
 # Discrete-web
 
-#### to use 
+#### download and use
 
 ```bash
 git clone https://github.com/archie0732/Discrete-web.git
