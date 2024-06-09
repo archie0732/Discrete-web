@@ -32,4 +32,4 @@ and script
 ```
 ### the web 
 
-![]('./src/assets/exa.png')
+![](https://github.com/archie0732/Discrete-web/blob/main/src/assets/exa.png)
