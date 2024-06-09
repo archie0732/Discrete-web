@@ -30,4 +30,3 @@ and script
 ./src/index.js
 ```
 
-```
