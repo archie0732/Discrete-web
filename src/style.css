@@ -1,0 +1,52 @@
+body{
+    background-color: #030303;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: #c0bbbb;
+  margin-top: 60px;
+  text-align: center;
+}
+h1{
+    display: block;
+    color: rgb(52,211,  153);
+}
+.aa{
+    display: block;
+    margin-bottom: 10px;
+    color: #c0bbbb;
+}
+.check{
+  text-align: center;
+  width: 150px;
+  background-color: #de151500;
+  border: solid 2px #eaebed;
+  border-radius: 10px;
+  user-select: none;
+  margin: 20px auto;
+  color:#c0bbbb;
+  padding: 20px;
+}
+.check:hover{
+    cursor: pointer;
+    color: #030303;
+    background-color: #acdcad;
+    transition: 0.5s;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  margin-bottom: 20px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  color: #eaebed;
+  border: solid 1px #c0bbbb;
+  font-size: large;
+  border-radius: 5px;
+  background-color: #030303;
+}
